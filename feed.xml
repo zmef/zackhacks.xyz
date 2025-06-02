@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ZackHacks.xyz</title>
-    <link href="https://zmef.github.io/zackhacks.xyz/feed.xml" rel="self" />
-    <link href="https://zmef.github.io/zackhacks.xyz" />
+    <link href="https://zackhacks.xyz/feed.xml" rel="self" />
+    <link href="https://zackhacks.xyz" />
     <updated>2025-06-02T21:28:32+00:00</updated>
     <author>
         <name>ꓜꓟеꓝ☠</name>
     </author>
-    <id>https://zmef.github.io/zackhacks.xyz</id>
+    <id>https://zackhacks.xyz</id>
 
     <entry>
         <title>testes</title>
         <author>
             <name>ꓜꓟеꓝ☠</name>
         </author>
-        <link href="https://zmef.github.io/zackhacks.xyz/testes.html"/>
-        <id>https://zmef.github.io/zackhacks.xyz/testes.html</id>
+        <link href="https://zackhacks.xyz/testes.html"/>
+        <id>https://zackhacks.xyz/testes.html</id>
 
         <updated>2025-06-02T21:28:32+00:00</updated>
             <summary>

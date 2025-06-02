@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ZackHacks.xyz",
     "description": "",
-    "home_page_url": "https://zmef.github.io/zackhacks.xyz",
-    "feed_url": "https://zmef.github.io/zackhacks.xyz/feed.json",
+    "home_page_url": "https://zackhacks.xyz",
+    "feed_url": "https://zackhacks.xyz/feed.json",
     "user_comment": "",
     "author": {
         "name": "ꓜꓟеꓝ☠"
     },
     "items": [
         {
-            "id": "https://zmef.github.io/zackhacks.xyz/testes.html",
-            "url": "https://zmef.github.io/zackhacks.xyz/testes.html",
+            "id": "https://zackhacks.xyz/testes.html",
+            "url": "https://zackhacks.xyz/testes.html",
             "title": "testes",
             "summary": "Testes, testes, one, two, THREE!",
             "content_html": "<p>Testes, testes, one, two, THREE!</p>",
